@@ -3,12 +3,19 @@
 ## What I learn in this course 📋
 
 ⚡️ How to use library barba.js
+
 ⚡️ Callbacks.
+
 ⚡️ Promises.
+
 ⚡️ Asynchronously intersectionObserver.
+
 ⚡️ Reveal animations on scroll.
+
 ⚡️ Transitions between pages.
+
 ⚡️ Animations on leave page, before enter page.
+
 ⚡️ Animations with greensock.
 
 ---
